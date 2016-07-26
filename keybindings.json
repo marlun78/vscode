@@ -1,0 +1,11 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "ctrl+z",
+        "command": "workbench.action.navigateBack"
+    },
+    {
+        "key": "ctrl+shift+z",
+        "command": "workbench.action.navigateForward"
+    }
+]

@@ -1,0 +1,26 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.detectIndentation": false,
+    "editor.formatOnType": true,
+    "editor.insertSpaces": true,
+    "editor.renderWhitespace": true,
+    "editor.rulers": [80],
+    "editor.tabSize": 4,
+    "editor.wrappingIndent": "indent",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5000,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/.idea": true
+    },
+    "files.trimTrailingWhitespace": true,
+    "javascript.validate.lint.comparisonOperatorsNotStrict": "warning",
+    "javascript.validate.lint.missingSemicolon": "warning",
+    "javascript.validate.lint.unusedFunctions": "warning",
+    "javascript.validate.lint.undeclaredVariables": "error",
+    "markdown.styles": [
+        "https://raw.githubusercontent.com/sindresorhus/github-markdown-css/gh-pages/github-markdown.css"
+    ],
+    "editor.wordBasedSuggestions": false
+}
