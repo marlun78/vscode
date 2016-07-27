@@ -17,6 +17,7 @@ _Note!_ Remember to exclude `node_modules` within `jsconfig.json` to save on rec
 | cmd+W           | Close file
 | cmd+B           | Open/close side-bar
 | cmd+shift+F     | Search
+| cmd+shift+V     | Markdown preview
 | cmd+1           | Focus editor pane #1
 | ctrl+tab        | Jump between open files
 | ctrl+G          | Go to line number
